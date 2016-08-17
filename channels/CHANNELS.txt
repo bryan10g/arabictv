@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1,
+http://ns8.indexforce.com/homemystream/playlist.m3u8
